@@ -3,7 +3,7 @@ This is an old AutoHotKey script I made in 2018/2019 for the Virtual Reality Dis
 
 It allows you to toggle the mic button by touching the 'Y' button on your Touch controller.
 
-## How to Set Up
+## How To Set Up
 - Install AHK (AutoHotKey) <- You're probably already here!
 - In your Speaker settings, change your Rift Audio's volume to a particular value (e.g. 78)
 - Run 'soundcard analysis.ahk'
