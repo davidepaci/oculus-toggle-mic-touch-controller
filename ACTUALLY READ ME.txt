@@ -1,0 +1,23 @@
+/// TOGGLE MIC BUTTON WITH BY TOUCHING THE 'Y' BUTTON ON YOUR TOUCH CONTROLLER ///
+Please read this carefully and you'll be good to go.
+
+HOW TO SET UP:
+- Install AHK (AutoHotKey) <- You're probably already here!
+- In your Speaker settings, change your Rift Audio's volume to a particular value (e.g. 78)
+- Run 'soundcard analysis.ahk'
+- When the list shows up, find the Audio output with the same volume you set before
+- Remember the mixer's number of that output
+- Right-click 'oculus-toggle-mic.ahk' and click on Edit Script
+- Replace REPLACE_ME with the mixer's number from before
+- Save
+- Right-click 'oculus-toggle-mic.ahk' and click on Compile Script
+- You can now put your Rift Audio's volume back to full again
+
+HOW TO RUN:
+Simply run the compiled file (.exe) everytime you need it.
+
+USAGE:
+Simply rest your thumb on the right thumb rest sensor then release it to toggle the mic on and off.
+
+HOW TO CLOSE:
+Tray > 'H' icon > Exit/Pause Script
